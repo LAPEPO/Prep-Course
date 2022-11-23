@@ -3,8 +3,7 @@
 function devolverPrimerElemento(array) {
   // Devuelve el primer elemento de un  array (pasado por parametro)
   // Tu código:
-  console.log(array[0]);
-}
+  return array[0];}
 
 
 function devolverUltimoElemento(array) {
@@ -13,12 +12,10 @@ function devolverUltimoElemento(array) {
   console.log(array[array.length - 1]);
 }
 
-
-
 function obtenerLargoDelArray(array) {
   // Devuelve el largo de un array
   // Tu código:
-  console.log(array.length);
+
 }
 
 
@@ -27,9 +24,7 @@ function incrementarPorUno(array) {
   // Aumenta cada entero por 1
   // y devuelve el array
   // Tu código:
- const NombreEstudiantes = [1,2,3,4];
- NombreEstudiantes.push(5);
- console.log(arra);
+
 }
 
 
